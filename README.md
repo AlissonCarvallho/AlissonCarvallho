@@ -1,4 +1,4 @@
-### Bem vindo, sou estudante, ainda estou aprendendo, mas já aprendi bastante hahaha.
+### Bem vindo! Me chamo Alisson e estudante de Análise e Desenvolvimento de Sistemas. 
 
 
 <!--
