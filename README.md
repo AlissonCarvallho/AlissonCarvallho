@@ -1,13 +1,18 @@
-👋 Olá, sou Alisson!
+# 👋 Olá, sou Alisson!
+Bem-vindo ao meu espaço no GitHub
 
-💻 Estudante de Ciência da Computação apaixonado por tecnologia e inovação.
+## 💻 Sobre Mim
 
-🌟 Explorando o mundo da programação para construir soluções criativas e enfrentar desafios emocionantes.
+Sou um Estudante de Ciência da Computação apaixonado por tecnologia e inovação.  
 
-🚀 Atualmente focado em aprimorar minhas habilidades em [desenvolvimento web, POO e Estrutura de dados].
+#🚀 Embora meu repositório esteja atualmente enxuto, estou dedicando minha energia para:
 
-📚 Sempre aprendendo, sempre evoluindo. Compartilho aqui meus projetos, aprendizados e descobertas.
+- Desenvolvimento Web: Criando interfaces e experiências interativas.
+- Programação Orientada a Objetos (POO): Aplicando princípios sólidos de design de software.
+- Estrutura de Dados: Construindo uma base sólida para eficiência e organização.
 
-🎮 Quando não estou codificando, provavelmente estou jogando videogame ou explorando novos lugares.
+## 📚 Aprendizado Contínuo
 
+
+## 🎮 Quando não estou explorando linhas de código, você pode me encontrar mergulhado em jogos eletrônicos ou explorando novos lugares para buscar inspiração.
 
