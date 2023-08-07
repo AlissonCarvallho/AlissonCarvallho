@@ -14,5 +14,5 @@ Sou um Estudante de Ciência da Computação apaixonado por tecnologia e inovaç
 ## 📚 Aprendizado Contínuo
 
 
-## 🎮 Quando não estou explorando linhas de código, você pode me encontrar mergulhado em jogos eletrônicos ou explorando novos lugares para buscar inspiração.
+
 
