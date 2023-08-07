@@ -10,6 +10,4 @@
 
 🎮 Quando não estou codificando, provavelmente estou jogando videogame ou explorando novos lugares.
 
-📬 Vamos conectar? Entre em contato pelo [seu e-mail ou redes sociais].
 
-Junte-se a mim nesta jornada de exploração e crescimento no mundo da tecnologia! 🌍🔥
