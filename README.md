@@ -1,9 +1,6 @@
 # 👋 Olá, sou Alisson!
 Bem-vindo ao meu espaço no GitHub
 
-## 💻 Sobre Mim
-
-Sou um Estudante de Ciência da Computação apaixonado por tecnologia e inovação.  
 
 #🚀 Embora meu repositório esteja atualmente enxuto, estou dedicando minha energia para:
 
